@@ -8,3 +8,6 @@
     * [goblint.svg](./traced-icon/goblint.svg) — cleaned-up vector image
     * [goblint512.png](./traced-icon/goblint512.png) — 512×512 render of vector image, minimized using zopflipng
     * [goblint256.svg](./traced-icon/goblint256.svg), [goblint512.svg](./traced-icon/goblint512.svg) — in-progress vector images from tracing, contain the original 32×32 raster as a hidden layer, do not use
+
+* [mascot](./mascot) — Wettlaufweltmeister mascot
+    * [wettlaufweltmeister.svg](./mascot/wettlaufweltmeister.svg) — vector image
